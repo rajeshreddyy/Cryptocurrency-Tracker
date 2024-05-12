@@ -1,0 +1,12 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+
+.cryptocurrency-container {
+  background-color: #000000;
+  height: 100vh;
+  margin: 0;
+  padding: 20px;
+  font-size: 12px;
+}
